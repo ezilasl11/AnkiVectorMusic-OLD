@@ -1,11 +1,11 @@
-<h1 align="centre">@TheAnkiVectorbot V3 🎵</h1>
+<h1 align="centre"> Ezila V3 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
 # Available on telegram as @TheAnkiVectorbot
 
 <p align="center">
-  <img src="https://telegra.ph/file/52e43c6e165a5773e6c76.jpg">
+  <img src="https://telegra.ph/file/7f4e0963549ab31fbeec9.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -52,4 +52,4 @@
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
 ### Credits
-- [Damantha](https://github.com/Damantha_Jasinghe): Dev
+- [Sadew](https://github.com/slbotofficial11): Dev

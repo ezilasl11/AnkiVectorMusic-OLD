@@ -5,7 +5,7 @@
 # Available on telegram as Ezila
 
 <p align="center">
-  <img src="https://telegra.ph/file/7f4e0963549ab31fbeec9.jpg">
+  <img src="https://telegra.ph/file/f904e96ffb240cf058f04.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
